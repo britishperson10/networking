@@ -1,0 +1,3 @@
+Reverse shell with basic socket made previously.
+
+The server doesn't really work with rev_shell so use netcat or something.
